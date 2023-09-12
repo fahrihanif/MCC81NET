@@ -8,9 +8,9 @@ public class Program
         //boat.engine = "Diesel";
         boat.maxSpeed = 100;
         
-        boat.Specification();
         
         Console.WriteLine("boat engine: " + boat.Engine);
+        Console.WriteLine("//////////////////////////////");
         Console.WriteLine("//////////////////////////////");
 
         Car supra = new Car("Gasoline", "Red", 6);

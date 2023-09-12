@@ -11,4 +11,9 @@ public class MoveCar : IMoveCar
     {
         Console.WriteLine("Brake stoppp......");
     }
+
+    public void Brake2()
+    {
+        throw new NotImplementedException();
+    }
 }
