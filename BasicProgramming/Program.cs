@@ -39,7 +39,9 @@ class Program
     {
         switch (age) {
             case 17:
-                return "Umur 17";
+                return "Umur 17"; 
+            case 18:
+                return "Umur 18";
             case 19:
                 return "Umur 19";
             case 20:
