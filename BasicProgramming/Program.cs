@@ -38,8 +38,8 @@ class Program
     static string MyAge(int age)
     {
         switch (age) {
-            case 23:
-                return "Umur 23";
+            case 17:
+                return "Umur 17";
             case 19:
                 return "Umur 19";
             case 20:
