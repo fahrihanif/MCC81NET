@@ -42,6 +42,8 @@ class Program
                 return "Umur 20";
             case 21:
                 return "Umur 21";
+            case 22:
+                return "Umur 22";
             default:
                 return "Umur Tidak Diketahui";
         }
